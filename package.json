@@ -1,0 +1,26 @@
+{
+  "name": "midlevel-chatbot",
+  "version": "1.0.0",
+  "description": "Chatbot intermediário desenvolvido com Node.js e JavaScript, seguindo uma curva de aprendizado em projetos de chatbot. Inclui funcionalidades aprimoradas em relação ao projeto inicial, com melhor interação e capacidade de processamento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedromartinsdev/midlevel-chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedromartinsdev/midlevel-chatbot/issues"
+  },
+  "homepage": "https://github.com/pedromartinsdev/midlevel-chatbot#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
